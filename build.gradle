@@ -30,5 +30,5 @@ dependencies{
     compile('org.projectlombok:lombok')
     compile('org.springframework.boot:spring-boot-starter-data-jpa') //스프링 부터용 spring data jpa 추상화 라이브러리
     compile('com.h2database:h2') // 인메모리관계형 데이터베이스.
-
+    compile('org.springframework.boot:spring-boot-starter-mustache')
 }
