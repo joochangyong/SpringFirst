@@ -1,3 +1,5 @@
 # Project exclude paths
 .gradle
 .idea
+#깃허브에 application-oauth.properties파일이 올라가는 것을 방지.
+application-oauth.properties
